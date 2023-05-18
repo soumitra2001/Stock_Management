@@ -15,7 +15,7 @@ This is a repository for the "Stock Management" application. The application foc
 
 To run this project, you will need to add the following dependencies to your pom.xml file
 
-`Spring Web`,`Spring Boot Dev Tool`,`Lombok`,`Spring Data JPA`,`Validation`,`MySQL Driver`
+`Spring Web`,`Spring Boot Dev Tool`,`Lombok`,`Spring Data JPA`,`Validation`,`H2-DataBase`
 
 
 
